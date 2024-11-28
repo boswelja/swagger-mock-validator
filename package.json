@@ -5,6 +5,7 @@
   "bin": {
     "swagger-mock-validator": "./bin/swagger-mock-validator.mjs"
   },
+  "main": "dist/api.js",
   "exports": {
     ".": "./dist/swagger-mock-validator-factory.js"
   },
